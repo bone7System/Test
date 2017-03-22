@@ -1,2 +1,15 @@
 123
 主动上司
+           width: 150px;
+               height: 150px;;
+           }
+           .cardHove{
+              height: 182px !important;
+              overflow: hidden !important;
+           }
+           .cardHove img{
+             width: 150px !important;
+             height: 150px !important;
+           }
+        </style>
+        
